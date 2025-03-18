@@ -3,3 +3,7 @@
 body{
     background: white;
 }
+
+.list-group-item {
+   border: 0; 
+}
